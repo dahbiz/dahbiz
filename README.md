@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Zakaria]
 
-<!--
-**dahbiz/dahbiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate junior researcher with a deep interest in the fascinating world of quantum technologies / quantum computing. 🔬
 
-Here are some ideas to get you started:
+## 🏰 Moorish Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Proudly from 🇲🇦 Morocco 🇲🇦, a country with a rich history and diverse culture.
+- 📚 Currently exploring the historical narratives that shaped Morocco throughout the ages.
+- 🏛️ Fascinated by the architecture, art, and cultural heritage of Moroccan civilizations.
+
+## 💻 Quantum Tech Explorer
+
+- 🌌 Exploring the mind-bending world of quantum technologies.
+- 🧠 Fascinated by the principles of superposition and entanglement.
+- 🚀 Excited about the potential quantum computing holds for solving complex problems.
+
+## 🌱 Current Learning Journey
+
+- 📖 Actively learning and growing in the fields of computational science and quantum information.
+- 🤝 Open to collaboration and eager to connect with like-minded individuals.
+- 🎓 Pursuing a degree in High Performance Computing to deepen my knowledge and gain critical skills for future research.
+
+## 📫 Let's Connect!
+
+Feel free to reach out for a chat, collaboration, or just to share interesting insights. Connect with me on [LinkedIn](https://www.linkedin.com/in/zdahbi/)!
+
+Happy quantum & coding! 🚀
