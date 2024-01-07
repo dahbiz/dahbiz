@@ -35,5 +35,11 @@ You can click the Preview link to take a look at your changes.
   <br/>
 </p>
 
+<h3 style="text-align: center;">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zdahbi/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/zdahbi/) [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=flat)](https://orcid.org/0000-0001-9933-2184) [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-0CB?logo=researchgate&logoColor=fff&style=flat)](https://www.researchgate.net/profile/Zakaria-Dahbi) [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=flat)](https://scholar.google.com/citations?user=R_L9mMUAAAAJ)
+
+
+
+
+</h3>
