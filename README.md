@@ -1,27 +1,43 @@
-# Hi there! 👋 I'm [Zakaria]
+<h1 align="center"> Hi, I’m Zakaria Dahbi 👋
+ </h1>
 
-I'm a passionate junior researcher with a deep interest in the fascinating world of quantum technologies / quantum computing. 🔬
+- 👀 I’m working on Quantum Information. 
+- :boom: I’m looking to collaborate on Quantum Computing and Quantum Algorithms projects!
+ <!--![Profile views](https://gpvc.arturio.dev/dahbiz)
+ <!-- - 🌱 I’m currently learning ... -->
+<!-- -  ... -->
+<!--- - 📫 How to reach me  on email... --->
 
-## 🏰 Moorish Enthusiast
+<!---
+dahbiz/dahbiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 
-- 🌍 Proudly from 🇲🇦 Morocco 🇲🇦, a country with a rich history and diverse culture.
-- 📚 Currently exploring the historical narratives that shaped Morocco throughout the ages.
-- 🏛️ Fascinated by the architecture, art, and cultural heritage of Moroccan civilizations.
+[![dahbiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahbiz)](https://github.com/dahbiz/github-readme-stats) --->
+<!-- ![dahbiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahbiz&show_icons=true) --->
 
-## 💻 Quantum Tech Explorer
+<!--- [![](https://github-readme-stats.vercel.app/api?username=dahbiz&hide=issues)](https://github.com/dahbiz/github-readme-stats) --->
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=dahbiz&theme=radical&show_icons=true"/>
+</p>
+<p align="center">
+  <a href="https://github.com/dahbiz/github-readme-stats">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahbiz&theme=radical&layout=compact"/>
+  </a>
+  <br/>
+</p>
 
-- 🌌 Exploring the mind-bending world of quantum technologies.
-- 🧠 Fascinated by the principles of superposition and entanglement.
-- 🚀 Excited about the potential quantum computing holds for solving complex problems.
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dahbiz&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
-## 🌱 Current Learning Journey
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahbiz&theme=radical"/>
+  </a>
+  <br/>
+</p>
 
-- 📖 Actively learning and growing in the fields of computational science and quantum information.
-- 🤝 Open to collaboration and eager to connect with like-minded individuals.
-- 🎓 Pursuing a degree in High Performance Computing to deepen my knowledge and gain critical skills for future research.
 
-## 📫 Let's Connect!
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zdahbi/)
 
-Feel free to reach out for a chat, collaboration, or just to share interesting insights. Connect with me on [LinkedIn](https://www.linkedin.com/in/zdahbi/)!
-
-Happy quantum & coding! 🚀
+<p align="center">
+  <img src="https://github.com/dahbiz/dahbiz/blob/main/github-user-contribution.svg" alt="snake"></center>
+</p>
