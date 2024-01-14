@@ -24,6 +24,14 @@ You can click the Preview link to take a look at your changes.
    <img src="https://myvercel-deployment-gtjv.vercel.app/api?username=dahbiz&theme=transparent&show_icons=true&show=prs_merged_percentage"/>
 </p>
 
+<!--START_SECTION:waka-->
+- uses: anmol098/waka-readme-stats@master
+  with:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      SHOW_OS: "False"
+      SHOW_PROJECTS: "False"
+<!--END_SECTION:waka-->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dahbiz&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
