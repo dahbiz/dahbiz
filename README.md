@@ -27,15 +27,15 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 January 2024 - To: 15 January 2024
+From: 13 January 2024 - To: 16 January 2024
 
-Total Time: 2 hrs 56 mins
+Total Time: 3 hrs 25 mins
 
-C++        1 hr 54 mins    >>>>>>>>>>>>>>>>---------   63.90 %
-Markdown   27 mins         >>>>---------------------   15.48 %
-C          17 mins         >>-----------------------   09.89 %
-Python     16 mins         >>-----------------------   09.41 %
-Other      2 mins          -------------------------   01.32 %
+C++        2 hrs 8 mins    >>>>>>>>>>>>>>>>---------   62.19 %
+Python     30 mins         >>>>---------------------   14.55 %
+Markdown   28 mins         >>>----------------------   13.57 %
+C          17 mins         >>-----------------------   08.55 %
+Other      2 mins          -------------------------   01.14 %
 ```
 
 <!--END_SECTION:waka-->
