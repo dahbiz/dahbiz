@@ -7,22 +7,7 @@
 <!-- -  ... -->
 <!--- - 📫 How to reach me  on email... --->
 
-<!---
-dahbiz/dahbiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
-[![dahbiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahbiz)](https://github.com/dahbiz/github-readme-stats) --->
-<!-- ![dahbiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahbiz&show_icons=true) --->
-<p align="center">
-  <a href="https://github.com/dahbiz/github-readme-stats">
-   <img src="https://myvercel-deployment-gtjv.vercel.app/api/top-langs/?username=dahbiz&theme=transparent&layout=compact"/>
-  </a>
-  <br/>
-</p>
-<!--- [![](https://github-readme-stats.vercel.app/api?username=dahbiz&hide=issues)](https://github.com/dahbiz/github-readme-stats) --->
-<p align="center">
-   <img src="https://myvercel-deployment-gtjv.vercel.app/api?username=dahbiz&theme=transparent&show_icons=true&show=prs_merged_percentage"/>
-</p>
 
 <!--START_SECTION:waka-->
 
