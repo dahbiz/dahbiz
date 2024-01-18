@@ -40,4 +40,13 @@ jobs:
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: ZAKARIA DAHBI # optional
           AUTHOR_EMAIL: zdahbi@outlook.es # optional
+          SHOW_PROFILE_VIEWS: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_COMMIT: false
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_LANGUAGE_PER_REPO: true
+          SHOW_SHORT_INFO: true
+          
           # you can populate email-id with secretes instead
