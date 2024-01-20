@@ -53,15 +53,6 @@ Other      3 mins          -------------------------   00.45 %
 <!--END_SECTION:waka-->
 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dahbiz&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahbiz&theme=merko"/>
-  </a>
-  <br/>
-</p>
-
 <h3 style="text-align: center;">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/zdahbi/) [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=flat)](https://orcid.org/0000-0001-9933-2184) [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-0CB?logo=researchgate&logoColor=fff&style=flat)](https://www.researchgate.net/profile/Zakaria-Dahbi) [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=flat)](https://scholar.google.com/citations?user=R_L9mMUAAAAJ)
