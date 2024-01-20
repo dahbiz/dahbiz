@@ -8,6 +8,10 @@
 <!--- - 📫 How to reach me  on email... --->
 
 
+<!--START_SECTION:SHOW_COMMIT-->
+
+<!--END_SECTION:SHOW_COMMIT-->
+
 
 <!--START_SECTION:waka-->
 
@@ -24,6 +28,7 @@ Other      2 mins          -------------------------   01.14 %
 ```
 
 <!--END_SECTION:waka-->
+
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dahbiz&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
