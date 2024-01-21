@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi, I’m Zakaria Dahbi 👋
+<h1 align="center"> Hi, I’m Zakaria 👋
  </h1>
 
 
