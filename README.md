@@ -42,13 +42,13 @@
 
 
 
-<h3 style="text-align: center;">
+<h1 align="center">
 
 ![<<<<<<<<<<<<<<< Programming Languages  >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20Programming%20Languages%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-gray?style=social&logo=stardock)
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Julia Badge](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff&style=flat) ![Fortran Badge](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff&style=flat) 
 
-</h3>
+</h1>
 
 <!--START_SECTION:waka-->
 
@@ -67,7 +67,7 @@ Other      3 mins          -------------------------   00.39 %
 
 <!--END_SECTION:waka-->
 
-<h3 style="text-align: center;">
+<h1 align="center">
 
 
 
@@ -77,9 +77,9 @@ Other      3 mins          -------------------------   00.39 %
 
 ![OpenACC](https://img.shields.io/badge/OpenACC-blue?style=flat&logo=apacherocketmq) ![OpenMPI](https://img.shields.io/badge/OpenMPI-blue?style=flat&logo=pix&logoColor=blue-green) ![CUDA](https://img.shields.io/badge/CUDA-gray?style=flat&logo=nvidia) ![OpenMP](https://img.shields.io/badge/OpenMP-indigo?style=flat&logo=headlessui) 
 
-</h3>
+</h1>
 
-<h3 style="text-align: center;">
+<h1 align="center">
 
 ![<<<<<<<<<<<<<<< Other Links >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20Other%20Links%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-gray?style=social&logo=stardock)
 
@@ -87,6 +87,6 @@ Other      3 mins          -------------------------   00.39 %
 
 
 ![<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>](https://img.shields.io/badge/%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E-green?style=for-the-badge&logoColor=white)
-</h3>
+</h1>
 
 
