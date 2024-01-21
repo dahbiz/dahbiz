@@ -70,10 +70,9 @@ Other      3 mins          -------------------------   00.39 %
 
 <h1 align="center">
 
-![<<<<<<<<<<<<<<< QUANTUM COMPUTING >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20Quantum%20Computing%20&%20Quantum%20Simulation%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-white)
+![<<<<<<<<<<<<<<< QUANTUM COMPUTING >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20Quantum%20Computing%20&%20Quantum%20Simulation%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-white) 
 
-![Qiskit Badge](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=flat) ![PyTKET](https://img.shields.io/badge/PyTKET-gray?style=flat&logo=python&logoColor=white) ![OpenQuantumSystems.jl](https://img.shields.io/badge/OpenQuantumSystems.jl-green?style=flat&logo=Julia&logoColor=white) ![QuantumOptics.jl](https://img.shields.io/badge/QuantumOptics.jl-green?style=flat&logo=Julia&logoColor=white) ![Wolfram Mathematica Badge](https://img.shields.io/badge/Wolfram%20Mathematica-D10?logo=wolframmathematica&logoColor=fff&style=flat)
-
+![Qiskit Badge](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=flat) ![PyTKET](https://img.shields.io/badge/PyTKET-gray?style=flat&logo=python&logoColor=white) ![OpenQuantumSystems.jl](https://img.shields.io/badge/OpenQuantumSystems.jl-green?style=flat&logo=Julia&logoColor=white) ![QuantumOptics.jl](https://img.shields.io/badge/QuantumOptics.jl-green?style=flat&logo=Julia&logoColor=white) ![Wolfram Mathematica Badge](https://img.shields.io/badge/Wolfram%20Mathematica-D10?logo=wolframmathematica&logoColor=fff&style=flat)  ![cuQUANTUM](https://img.shields.io/badge/cuQUANTUM*-gray?style=flat&logo=nvidia) ![Quantum++](https://img.shields.io/badge/Quantum++*-blue?style=flat&logo=cplusplus) 
 
 ![<<<<<<<<<<<<<<< HPC >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20High%20Performance%20Computing%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-white)
 
