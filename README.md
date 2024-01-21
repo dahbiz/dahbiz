@@ -44,7 +44,7 @@
 
 <h1 align="center">
 
-![<<<<<<<<<<<<<<< Programming Languages  >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20Programming%20Languages%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-gray?style=social&logo=stardock)
+![<<<<<<<<<<<<<<< Programming Languages  >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20Programming%20Languages%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-white)
 
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Julia Badge](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff&style=flat) ![Fortran Badge](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff&style=flat) 
 
@@ -70,12 +70,12 @@ Other      3 mins          -------------------------   00.39 %
 
 <h1 align="center">
 
-![<<<<<<<<<<<<<<< QUANTUM COMPUTING >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20Quantum%20Computing%20&%20Quantum%20Simulation%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-gray?style=social&logo=stardock)
+![<<<<<<<<<<<<<<< QUANTUM COMPUTING >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20Quantum%20Computing%20&%20Quantum%20Simulation%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-white)
 
 ![Qiskit Badge](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=flat) ![PyTKET](https://img.shields.io/badge/PyTKET-gray?style=flat&logo=python&logoColor=white) ![OpenQuantumSystems.jl](https://img.shields.io/badge/OpenQuantumSystems.jl-green?style=flat&logo=Julia&logoColor=white) ![QuantumOptics.jl](https://img.shields.io/badge/QuantumOptics.jl-green?style=flat&logo=Julia&logoColor=white) ![Wolfram Mathematica Badge](https://img.shields.io/badge/Wolfram%20Mathematica-D10?logo=wolframmathematica&logoColor=fff&style=flat)
 
 
-![<<<<<<<<<<<<<<< HPC >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20High%20Performance%20Computing%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-gray?style=social&logo=stardock)
+![<<<<<<<<<<<<<<< HPC >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20High%20Performance%20Computing%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-white)
 
 
 ![OpenACC](https://img.shields.io/badge/OpenACC-blue?style=flat&logo=apacherocketmq) ![OpenMPI](https://img.shields.io/badge/OpenMPI-blue?style=flat&logo=pix&logoColor=blue-green) ![CUDA](https://img.shields.io/badge/CUDA-gray?style=flat&logo=nvidia) ![OpenMP](https://img.shields.io/badge/OpenMP-indigo?style=flat&logo=headlessui)  ![CuPy](https://img.shields.io/badge/CuPy-green?style=flat&logo=python&logoColor=white)  ![Numba](https://img.shields.io/badge/Numba-blue?style=flat&logo=python&logoColor=white) 
@@ -84,7 +84,7 @@ Other      3 mins          -------------------------   00.39 %
 
 <h1 align="center">
 
-![<<<<<<<<<<<<<<< Other Links >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20Other%20Links%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-gray?style=social&logo=stardock)
+![<<<<<<<<<<<<<<< Other Links >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20Other%20Links%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-white)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/zdahbi/) [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=fff&style=flat)](https://orcid.org/0000-0001-9933-2184) [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-0CB?logo=researchgate&logoColor=fff&style=flat)](https://www.researchgate.net/profile/Zakaria-Dahbi) [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=flat)](https://scholar.google.com/citations?user=R_L9mMUAAAAJ) [![Scopus Badge](https://img.shields.io/badge/Scopus-E9711C?logo=scopus&logoColor=fff&style=flat)](https://www.scopus.com/authid/detail.uri?authorId=57214808020) [![Clarivate Badge](https://img.shields.io/badge/Clarivate-000?logo=clarivate&logoColor=fff&style=flat)](https://www.webofscience.com/wos/author/record/48205986)
 
