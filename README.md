@@ -67,11 +67,12 @@ Other      3 mins          -------------------------   00.39 %
 
 <!--END_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@018d0980-c959-4607-82b2-e082943bfb3d/66b1d8b5-4533-4734-b94a-3f9ef4b20247.svg"></embed></figure>
 
 <h1 align="center">
 
+![<<<<<<<<<<<<<<< QUANTUM COMPUTING >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20Quantum%20Computing%20&%20Quantum%20Simulation%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-gray?style=social&logo=stardock)
 
+![Qiskit Badge](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=fff&style=flat) ![PyTKET](https://img.shields.io/badge/PyTKET-gray?style=flat&logo=python&logoColor=white) ![OpenQuantumSystems.jl](https://img.shields.io/badge/OpenQuantumSystems.jl-green?style=flat&logo=Julia&logoColor=white) ![QuantumOptics.jl](https://img.shields.io/badge/QuantumOptics.jl-green?style=flat&logo=Julia&logoColor=white) ![Wolfram Mathematica Badge](https://img.shields.io/badge/Wolfram%20Mathematica-D10?logo=wolframmathematica&logoColor=fff&style=flat)
 
 
 ![<<<<<<<<<<<<<<< HPC >>>>>>>>>>>>>>>](https://img.shields.io/badge/%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%3C%20High%20Performance%20Computing%20%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E%3E-gray?style=social&logo=stardock)
