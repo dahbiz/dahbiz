@@ -1,4 +1,4 @@
-![<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>](https://img.shields.io/badge/%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E%3C%3E-green?style=for-the-badge&logoColor=white)
+
 
 <h1 align="center"> Hi, I’m Zakaria Dahbi 👋
  </h1>
