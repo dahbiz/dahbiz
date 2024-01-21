@@ -52,7 +52,7 @@
 
 <!--START_SECTION:waka-->
 
-```rustkv
+```rust
 From: 13 January 2024 - To: 20 January 2024
 
 Total Time: 15 hrs 57 mins
