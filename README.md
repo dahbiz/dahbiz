@@ -90,6 +90,9 @@ Other      3 mins          -------------------------   00.39 %
 
 [![wakatime](https://wakatime.com/badge/user/018d0980-c959-4607-82b2-e082943bfb3d.svg)](https://wakatime.com/@018d0980-c959-4607-82b2-e082943bfb3d)
 
+
+![](https://komarev.com/ghpvc/?username=dahbiz)
+
 </h1> 
 
 
