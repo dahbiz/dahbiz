@@ -53,13 +53,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 January 2024 - To: 01 April 2024
+From: 13 January 2024 - To: 02 April 2024
 
-Total Time: 230 hrs 47 mins
+Total Time: 230 hrs 56 mins
 
-Python        125 hrs 39 mins >>>>>>>>>>>>>------------   52.39 %
-C             53 hrs 37 mins  >>>>>>-------------------   22.36 %
-C++           37 hrs 42 mins  >>>>---------------------   15.72 %
+Python        125 hrs 48 mins >>>>>>>>>>>>>------------   52.42 %
+C             53 hrs 37 mins  >>>>>>-------------------   22.34 %
+C++           37 hrs 42 mins  >>>>---------------------   15.71 %
 Markdown      10 hrs 52 mins  >------------------------   04.53 %
 Other         9 hrs 3 mins    >------------------------   03.77 %
 ```
