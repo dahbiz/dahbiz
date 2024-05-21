@@ -53,9 +53,9 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 January 2024 - To: 18 May 2024
+From: 13 January 2024 - To: 19 May 2024
 
-Total Time: 331 hrs 15 mins
+Total Time: 331 hrs 18 mins
 
 Python             159 hrs 20 mins >>>>>>>>>>>>-------------   46.74 %
 C                  58 hrs 42 mins  >>>>---------------------   17.22 %
