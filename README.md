@@ -53,7 +53,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 January 2024 - To: 27 September 2025
+From: 13 January 2024 - To: 28 September 2025
 
 Total Time: 1,018 hrs 58 mins
 
@@ -63,7 +63,7 @@ C                  75 hrs 34 mins  >>-----------------------   07.27 %
 Markdown           57 hrs 54 mins  >------------------------   05.57 %
 Cuda               41 hrs 29 mins  >------------------------   03.99 %
 CMake              24 hrs 5 mins   >------------------------   02.32 %
-Other              21 hrs 15 mins  >------------------------   02.04 %
+Other              21 hrs 16 mins  >------------------------   02.05 %
 ```
 
 <!--END_SECTION:waka-->
